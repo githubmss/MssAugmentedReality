@@ -1,4 +1,4 @@
-package com.maha.leviathan.monstershooter;
+package com.mss.augmented.monstershooter;
 
 import android.app.Activity;
 import android.content.Intent;
@@ -8,7 +8,6 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
-import android.util.Log;
 
 public class SplashActivity extends Activity {
     private static final int REQUEST_READ_PHONE_STATE_PERMISSION = 225;

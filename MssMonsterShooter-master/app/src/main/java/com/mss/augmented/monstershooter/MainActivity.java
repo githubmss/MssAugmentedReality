@@ -1,4 +1,4 @@
-package com.maha.leviathan.monstershooter;
+package com.mss.augmented.monstershooter;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -24,7 +24,6 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.beyondar.android.fragment.BeyondarFragmentSupport;
 import com.beyondar.android.view.BeyondarGLSurfaceView;

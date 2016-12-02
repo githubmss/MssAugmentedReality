@@ -1,4 +1,4 @@
-package com.maha.leviathan.monstershooter;
+package com.mss.augmented.monstershooter;
 
 import android.app.Activity;
 
